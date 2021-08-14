@@ -5,7 +5,7 @@ const Form = () => {
     <div className="border">
       <form className="border-black max-w-md bg-white shadow-md">
         <span className="logo font-logo text-6xl block text-center mb-5 text-yellow-5000">
-          Firegram
+          MeloGram
         </span>
         <div className="mb-2">
           <input
